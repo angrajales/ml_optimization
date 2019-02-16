@@ -1,0 +1,10 @@
+1. + Batch Gradient Decent
+2. + Stochastic Gradient Decent
+3. + Mini-Batch Gradient Decent
+4. + Gradient Decent with Momentum
+5. + Nesterov Accelerated Gradient
+6. + Adagrad
+7. + Adadelta
+8. + RMSprop
+9. + Adam
+10. +  Adapg
